@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Ryanc1995/Javascript-HW3/issues"
   },
-  "homepage": "https://github.com/Ryanc1995/Javascript-HW3#readme"
+  "homepage": "https://github.com/Ryanc1995/Javascript-HW3#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
