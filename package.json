@@ -1,0 +1,20 @@
+{
+  "name": "Javascript-HW3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "msg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryanc1995/Javascript-HW3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ryanc1995/Javascript-HW3/issues"
+  },
+  "homepage": "https://github.com/Ryanc1995/Javascript-HW3#readme"
+}
